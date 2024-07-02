@@ -14,5 +14,5 @@ To run the notebooks in Google Colab, follow these steps:
 
 ## Usage
 **Training YOLOv10 on a Helmet Safety Detection dataset**
-- Open the `Module1_Yolov10_Project.ipynb` notebook
-- Follow the steps outlined in the notebook to clone Yolov10 from Ultralytics and fine-tune it to fit a Helmet Safety Detection dataset
+- Open the `Module1_Yolov10_Project.ipynb` notebook.
+- Follow the steps outlined in the notebook to clone Yolov10 from Ultralytics and fine-tune it to fit a Helmet Safety Detection dataset.
